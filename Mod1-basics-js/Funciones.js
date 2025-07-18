@@ -83,3 +83,33 @@ function aritmeticafunc_producto( val_b, val_c ) {
 
 console.log(aritmeticafunc_producto(5 ,  4 ));
 
+// NUmeros de division - promedios 
+
+/*
+    en las funciones los valores aritmeticos como la div / y el resto trabajana con una logica en numeros tanto decimales para el resto , decimal para la division
+*/
+
+const evaluar = 8 / 4; // 2 
+
+console.log(evaluar);
+
+// promedios divisiones dependientes con lo que va de la mano que tiene un conjunto de valores con agrupaciones 
+
+// formas de trabajar con estos datos 
+
+const abcd =  4 + 5 +  3 ;
+const resultd = abcd / 4;
+console.log(resultd);
+
+
+const simplefid = (1 + 2 + 3) / 4;
+console.log(simplefid);
+
+function divisionesprom( a, b, c,d) {
+    return (a + b + c + d) / 4 ;
+}
+
+console.log(divisionesprom(10,20,30,40));
+console.log(divisionesprom(2,5,3,10));
+/// configuracion dependiente de las funciones que se quieren transformar ...
+
