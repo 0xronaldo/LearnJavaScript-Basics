@@ -16,4 +16,14 @@ const val2Random = Math.random(0 ,1 );
 console.log(val2Random);
 
 
+///  
+// esta funcion utiliza la libreria de Math para redondear un valor entero el cual si no es mayor a 9 no sera redondeado  
+
+function getFloor(x) {
+    return Math.floor(x);
+}
+
+console.log(getFloor(3.9258641));
+
+
 
