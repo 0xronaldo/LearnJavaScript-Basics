@@ -57,3 +57,27 @@ function isEqual(a, b) {
 console.log(isEqual(5,5));
 
 // logica aplicada a las funciones y tambien a las condicionales 
+
+
+/**
+ * 
+ * operador que no es extrictamente igual 
+ * diferente de ...
+ */
+// podemos diferenciar valores de la siguiente manera
+// direncias 
+console.log( 2 !== 1 ); // true
+console.log( 2 !== 2 ); // false    
+console.log( 2 !== '2' ); // true, porque es diferente tipo de dato 
+// de otro modo 
+// acabo de descubrir que en JS si no tienes una funcion base no se puede de imprimir el texto sin que sea impreso por un console.log
+function Validateisnoteq(x) {
+    if ( 8 !== x ) {
+        return `its true`;
+    } else {
+        return `its false`;
+    }
+}
+console.log(Validateisnoteq(9));
+
+
