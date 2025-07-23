@@ -26,10 +26,9 @@ En este curso se desarrollan los temas listados correspondientes en cada carpeta
 el echo de desarrollar esta practica es comunicar conocimiento aprendido y demostrar atraves de este curso que es posible desarrollar un software completo solo usando javascript
 tambien que si se quiere clonar este repositorio todos los archivos en una sola carpeta se encuentran en el diretorio:
 
+### Directorio de Base
 
--- *** DIRECTORIO ***
-
--- *** Mod1-Basics-js ***
+ **Mod1-Basics-js**
 
 la carpeta contiene todos los archivos de los modulos presentados en el que tambien se puede de comparar a diferencia de las carpetas divididas por seccion
 esta carpeta tiene todos los archivos con comentarios y extras del software desarrollado implementando como solucion alternativa y una sola configuracion esencial 
