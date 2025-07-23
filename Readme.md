@@ -3,23 +3,23 @@
 Introduccion al lenguaje de Javascript manejo de funciones , declaraciones de multivariable 
 , estructura de datos , arreglos , programacion modular.
 
- -- *** LISTA DE UNIDADES ***
+## 📚 LISTA DE UNIDADES
 
--- *** 1. JavaScript-Basics ***
--- *** 2. Problemas-Practicos ***
--- *** 3. Datos-almacenamiento-memory ***
--- *** 4. Practicas-Data-memory ***
--- *** 4. JavaScriptIntermedio-Caracteristicas ***
--- *** 5. Practicas-Intermedias ***
--- *** 6. JS-Clases-Prototipos ***
--- *** 7. Binarios-Hexadecimales ***
--- *** 8. Arreglos-Manipulacion ***
--- *** 9. Constructuros_de_Datos_Struct ***
--- *** 10. Problemas-Practicas-Struct ***
--- *** 11. Desarrollo_Local ***
--- *** 12. JS-LogicaAsyncronica ***
--- *** 13. ConstruccionServidores ***
--- *** 14. PruebaFinalCurso ***
+1. **JavaScript - Basics**
+2. **Problemas Prácticos**
+3. **Datos: Almacenamiento y Memoria**
+4. **Prácticas con Data y Memoria**
+5. **JavaScript Intermedio - Características**
+6. **Prácticas Intermedias**
+7. **JavaScript: Clases y Prototipos**
+8. **Binarios y Hexadecimales**
+9. **Arreglos y Manipulación**
+10. **Constructores de Datos (Struct)**
+11. **Problemas Prácticos con Struct**
+12. **Desarrollo Local**
+13. **JavaScript - Lógica Asíncrona**
+14. **Construcción de Servidores**
+15. **Prueba Final del Curso**
 
 
 En este curso se desarrollan los temas listados correspondientes en cada carpeta se encuentran el respectivo archivo de cada leccion y tipo de seccion aplicada
